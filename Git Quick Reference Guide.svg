@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Git Quick Reference Guide.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path5408"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient5311"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5313" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="225.32784"
+     inkscape:cy="614.30057"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     inkscape:window-x="1912"
+     inkscape:window-y="596"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="240"
+       y="32.362183"
+       id="text2987"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2989"
+         x="240"
+         y="32.362183">Git Quick Reference Guide</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="10"
+       y="62.362183"
+       id="text2991"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2993"
+         x="10"
+         y="62.362183"
+         style="font-size:12px">setting up a project</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="363.57144"
+       y="290.21933"
+       id="text2996"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2998"
+         x="363.57144"
+         y="290.21933" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3010"
+       y="402.36218"
+       x="10"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px"
+         y="402.36218"
+         x="10"
+         sodipodi:role="line"
+         id="tspan3016">other commands</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="30"
+       y="422.36218"
+       id="text3022"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="30"
+         y="422.36218"
+         id="tspan3034">git help git</tspan><tspan
+         sodipodi:role="line"
+         x="30"
+         y="434.86218"
+         id="tspan3036">git help &lt;command&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="30"
+         y="447.36218"
+         id="tspan3038">git --version</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="150"
+       y="422.36218"
+       id="text3026"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="150"
+         y="422.36218"
+         id="tspan3030">displays the help index in the browser</tspan><tspan
+         sodipodi:role="line"
+         x="150"
+         y="434.86218"
+         id="tspan3032">displays help for specific commands in the browser</tspan><tspan
+         sodipodi:role="line"
+         x="150"
+         y="447.36218"
+         id="tspan3042">returns the installed version of git</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3046"
+       y="82.362183"
+       x="30"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3052"
+         y="82.362183"
+         x="30"
+         sodipodi:role="line">git init</tspan><tspan
+         y="94.862183"
+         x="30"
+         sodipodi:role="line"
+         id="tspan3219">git clone &lt;url&gt;</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3059"
+       y="82.362183"
+       x="150"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3065"
+         y="82.362183"
+         x="150"
+         sodipodi:role="line">initializes and sets up a new repository</tspan><tspan
+         y="94.862183"
+         x="150"
+         sodipodi:role="line"
+         id="tspan3221">clones the repository stored at &lt;url&gt; into a newly created directory</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3072"
+       y="62.362183"
+       x="500"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px"
+         y="62.362183"
+         x="500"
+         id="tspan3074"
+         sodipodi:role="line">Git Bash Setup and Configuration</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="500"
+       y="82.362183"
+       id="text3076"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="500"
+         y="82.362183"
+         id="tspan3078">Configuring your name</tspan><tspan
+         sodipodi:role="line"
+         x="500"
+         y="94.862183"
+         id="tspan3185">  - git config --global user.name &lt;Your name&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="500"
+         y="107.36218"
+         id="tspan3187" /><tspan
+         sodipodi:role="line"
+         x="500"
+         y="119.86218"
+         id="tspan3189">Configuring your email</tspan><tspan
+         sodipodi:role="line"
+         x="500"
+         y="132.36218"
+         id="tspan3191">  - git config --global user.email &lt;Your email&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="500"
+         y="144.86218"
+         id="tspan3193" /><tspan
+         sodipodi:role="line"
+         x="500"
+         y="157.36218"
+         id="tspan3195">Set up a default editor</tspan><tspan
+         sodipodi:role="line"
+         x="500"
+         y="169.86218"
+         id="tspan3197">  - git config --global core.editor &lt;path to editor exe&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="500"
+         y="182.36218"
+         id="tspan3199" /><tspan
+         sodipodi:role="line"
+         x="500"
+         y="194.86218"
+         id="tspan3201">Enable copying with right mouse click</tspan><tspan
+         sodipodi:role="line"
+         x="500"
+         y="207.36218"
+         id="tspan3080">  - click the orange symbol in the top left corner</tspan><tspan
+         sodipodi:role="line"
+         x="500"
+         y="219.86218"
+         id="tspan3082">  - Defaults</tspan><tspan
+         sodipodi:role="line"
+         x="500"
+         y="232.36218"
+         id="tspan3084">  - check QuickEdit Mode</tspan><tspan
+         sodipodi:role="line"
+         x="500"
+         y="244.86218"
+         id="tspan3090" /><tspan
+         sodipodi:role="line"
+         x="500"
+         y="257.36218"
+         id="tspan3086">Getting colored output</tspan><tspan
+         sodipodi:role="line"
+         x="500"
+         y="269.86218"
+         id="tspan3148">  - git config --global color.ui auto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="10"
+       y="152.36218"
+       id="text3092"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3094"
+         sodipodi:role="line"
+         x="10"
+         y="152.36218"
+         style="font-size:12px">navigating a commit history</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="20"
+       y="172.36218"
+       id="text3096"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="20"
+         y="172.36218"
+         id="tspan3098">git log</tspan><tspan
+         sodipodi:role="line"
+         x="20"
+         y="184.86218"
+         id="tspan3108" /><tspan
+         sodipodi:role="line"
+         x="20"
+         y="197.36218"
+         id="tspan3118">git reflog</tspan><tspan
+         sodipodi:role="line"
+         x="20"
+         y="209.86218"
+         id="tspan3231">git status</tspan><tspan
+         sodipodi:role="line"
+         x="20"
+         y="222.36218"
+         id="tspan3126">git diff</tspan><tspan
+         sodipodi:role="line"
+         x="20"
+         y="234.86218"
+         id="tspan3106">git diff &lt;id1&gt; &lt;id2&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="20"
+         y="247.36218"
+         id="tspan3122">git checkout &lt;id&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="20"
+         y="259.86218"
+         id="tspan3128" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="150"
+       y="172.36218"
+       id="text3100"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="150"
+         y="172.36218"
+         id="tspan3102">shows the history of commits up to the currently checked out commit</tspan><tspan
+         sodipodi:role="line"
+         x="150"
+         y="184.86218"
+         id="tspan3116">     &lt;q&gt; exits the history</tspan><tspan
+         sodipodi:role="line"
+         x="150"
+         y="197.36218"
+         id="tspan3124">shows all the commits that have been made recently</tspan><tspan
+         sodipodi:role="line"
+         x="150"
+         y="209.86218"
+         id="tspan3237">shows which firles have changes since the last commit</tspan><tspan
+         sodipodi:role="line"
+         x="150"
+         y="222.36218"
+         id="tspan3233">shows the difference between the current state and the previous commit</tspan><tspan
+         sodipodi:role="line"
+         x="150"
+         y="234.86218"
+         id="tspan3104">shows the difference betwenn the commits &lt;id1&gt; and &lt;id2&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="150"
+         y="247.36218"
+         id="tspan3112">resets the files back to commit &lt;id&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="150"
+         y="259.86218"
+         id="tspan3120" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="57.857143"
+       y="520.21936"
+       id="text3207"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3209"
+         x="57.857143"
+         y="520.21936">git config --global push.default upstream</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="89.285713"
+       y="575.93359"
+       id="text3211"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3213"
+         x="89.285713"
+         y="575.93359">git config --global merge.conflictstyle diff3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="30"
+       y="485.21933"
+       id="text3215"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3217"
+         x="30"
+         y="485.21933">unsorted</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="10"
+       y="292.36218"
+       id="text3223"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3225"
+         x="10"
+         y="292.36218" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3053"
+       y="302.36218"
+       x="10"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px"
+         y="302.36218"
+         x="10"
+         sodipodi:role="line"
+         id="tspan3055">making changes to a repository</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3057"
+       y="322.36218"
+       x="30"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3063"
+         y="322.36218"
+         x="30"
+         sodipodi:role="line">git add</tspan><tspan
+         y="334.86218"
+         x="30"
+         sodipodi:role="line"
+         id="tspan6207">git reset --hard</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3065"
+       y="322.36218"
+       x="150"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3071"
+         y="322.36218"
+         x="150"
+         sodipodi:role="line">adds a new </tspan><tspan
+         y="334.86218"
+         x="150"
+         sodipodi:role="line"
+         id="tspan6209">checks out the previous commit</tspan><tspan
+         y="347.36218"
+         x="150"
+         sodipodi:role="line"
+         id="tspan3087">     this command will get rid of all changes mad to the previous commit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="60"
+       y="667.36218"
+       id="text5341"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5343"
+         x="60"
+         y="667.36218">Working </tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="679.86218"
+         id="tspan5353">directory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="150"
+       y="672.36218"
+       id="text5345"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="150"
+         y="672.36218"
+         id="tspan5355">Staging area</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="255"
+       y="672.36218"
+       id="text5349"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5351"
+         x="255"
+         y="672.36218">Repository</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5357"
+       width="80"
+       height="90"
+       x="40.535713"
+       y="652.89789" />
+    <rect
+       y="653.07648"
+       x="140.71428"
+       height="90"
+       width="80"
+       id="rect5359"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5361"
+       width="80"
+       height="90"
+       x="240.71428"
+       y="653.07648" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5365"
+       width="50"
+       height="10"
+       x="55.5"
+       y="687.86218" />
+    <rect
+       y="702.86218"
+       x="55.5"
+       height="10"
+       width="50"
+       id="rect5367"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5369"
+       width="50"
+       height="10"
+       x="55.5"
+       y="717.86218" />
+    <rect
+       y="687.86218"
+       x="155.5"
+       height="10"
+       width="50"
+       id="rect5371"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5373"
+       width="50"
+       height="10"
+       x="155.5"
+       y="702.86218" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 105,692.36218 50,0"
+       id="path5375"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 105,707.36218 50,0"
+       id="path5821"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect6013"
+       width="40"
+       height="5"
+       x="260.5"
+       y="696.86218" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect6015"
+       width="40"
+       height="5"
+       x="260.5"
+       y="706.86218" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 220,697.36218 30,0"
+       id="path6017"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="254.6875"
+       y="692.26843"
+       id="text6201"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6203"
+         x="254.6875"
+         y="692.26843">commit</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect6205"
+       width="60"
+       height="35"
+       x="250"
+       y="682.36218" />
+  </g>
+</svg>
